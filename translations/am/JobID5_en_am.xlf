@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
+ <file original="xliff-core-1.2-strict.xsd" source-language="en" target-language="am" datatype="plaintext" date="2014-11-12T10:11:30Z">
+  <header>
+   <phase-group>
+    <phase tool-id="tmgmt" phase-name="extraction" process-name="extraction" job-id="5"/>
+   </phase-group>
+   <tool tool-id="tmgmt" tool-name="Drupal Translation Management Tools"/>
+  </header>
+  <body>
+   <group id="190">
+    <note>Index (menu:item:1004)</note>
+    <trans-unit id="190][menu:item:1004:title" resname="190][menu:item:1004:title">
+     <source xml:lang="en">Index</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="191">
+    <note>Credits (menu:item:1129)</note>
+    <trans-unit id="191][menu:item:1129:title" resname="191][menu:item:1129:title">
+     <source xml:lang="en">Credits</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="192">
+    <note>Glossary (menu:item:1175)</note>
+    <trans-unit id="192][menu:item:1175:title" resname="192][menu:item:1175:title">
+     <source xml:lang="en">Glossary</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="193">
+    <note>Credits (menu:item:1177)</note>
+    <trans-unit id="193][menu:item:1177:title" resname="193][menu:item:1177:title">
+     <source xml:lang="en">Credits</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="194">
+    <note>About (menu:item:1178)</note>
+    <trans-unit id="194][menu:item:1178:title" resname="194][menu:item:1178:title">
+     <source xml:lang="en">About</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="195">
+    <note>Privacy (menu:item:1179)</note>
+    <trans-unit id="195][menu:item:1179:title" resname="195][menu:item:1179:title">
+     <source xml:lang="en">Privacy</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="196">
+    <note>About (menu:item:861)</note>
+    <trans-unit id="196][menu:item:861:title" resname="196][menu:item:861:title">
+     <source xml:lang="en">About</source>
+     <target xml:lang="am"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="197">
+    <note>Overviews</note>
+    <trans-unit id="197][name_field][0][value" resname="197][name_field][0][value">
+     <source xml:lang="en">Overviews</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="197][description_field][0][value" resname="197][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;Understanding the basics: What digital surveillance is, and how you can fight it.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="198">
+    <note>Tutorials</note>
+    <trans-unit id="198][name_field][0][value" resname="198][name_field][0][value">
+     <source xml:lang="en">Tutorials</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="198][description_field][0][value" resname="198][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;Step-by-step guides to help you install and use key software and tools.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="199">
+    <note>Briefings</note>
+    <trans-unit id="199][name_field][0][value" resname="199][name_field][0][value">
+     <source xml:lang="en">Briefings</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="199][description_field][0][value" resname="199][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;Detailed guides for specific situations.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="200">
+    <note>Zero day</note>
+    <trans-unit id="200][name_field][0][value" resname="200][name_field][0][value">
+     <source xml:lang="en">Zero day</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="200][description_field][0][value" resname="200][description_field][0][value">
+     <source xml:lang="en">A flaw in a piece of software or hardware that was previously unknown to the maker of the product. Until the manufacturers hear of the flaw and fix it, attackers can use it for their own purposes.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="201">
+    <note>XMPP</note>
+    <trans-unit id="201][name_field][0][value" resname="201][name_field][0][value">
+     <source xml:lang="en">XMPP</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="201][description_field][0][value" resname="201][description_field][0][value">
+     <source xml:lang="en">A open standard for instant messages - Google uses XMPP for Google Chat; Facebook used to offer it, but stopped. Non-corporate independent instant messaging services will usually use XMPP. Services like WhatsApp have their own, closed and secret protocol.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="202">
+    <note>Web-based proxy</note>
+    <trans-unit id="202][name_field][0][value" resname="202][name_field][0][value">
+     <source xml:lang="en">Web-based proxy</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="202][description_field][0][value" resname="202][description_field][0][value">
+     <source xml:lang="en">A website that lets its users access other, blocked or censored websites. Generally, the web proxy will let you type a web address (or URL) onto a web page, and then redisplay that web address on the proxy page. Easier to use than most other censorship-circumventing services.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="203">
+    <note>Web browser</note>
+    <trans-unit id="203][name_field][0][value" resname="203][name_field][0][value">
+     <source xml:lang="en">Web browser</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="203][description_field][0][value" resname="203][description_field][0][value">
+     <source xml:lang="en">The program you use to view web sites. Firefox, Safari, Internet Explorer and Chrome are all web browsers. Smartphones  have a built-in web browser app for the same purpose.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="204">
+    <note>Voice over IP (VoIP)</note>
+    <trans-unit id="204][name_field][0][value" resname="204][name_field][0][value">
+     <source xml:lang="en">Voice over IP (VoIP)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="204][description_field][0][value" resname="204][description_field][0][value">
+     <source xml:lang="en">Any technology that allows you to use the Internet for voice communication with other VoIP users or receive telephone calls over the Internet.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="204][field_synonym][0][value" resname="204][field_synonym][0][value">
+     <source xml:lang="en">VoIP</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="205">
+    <note>Virtual Private Network</note>
+    <trans-unit id="205][name_field][0][value" resname="205][name_field][0][value">
+     <source xml:lang="en">Virtual Private Network</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="205][description_field][0][value" resname="205][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;A virtual private network is a method for connecting your computer securely to the network of an organization on the other side of the Internet. When you use a VPN, all of your computer's Internet communications is packaged together, encrypted and then relayed to this other organization, where it is decrypted, unpacked, and then sent on to its destination.&amp;nbsp;To the organization's network, or any other computer on the wider Internet, it looks like your computer's request is coming from inside the organization, not from your location.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;VPNs are used by businesses to provide secure access to internal resources (like file servers or printers). They are also used by individuals to bypass local censorship, or defeat local surveillance.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="205][field_synonym][0][value" resname="205][field_synonym][0][value">
+     <source xml:lang="en">VPN</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="206">
+    <note>Two-factor authentication</note>
+    <trans-unit id="206][name_field][0][value" resname="206][name_field][0][value">
+     <source xml:lang="en">Two-factor authentication</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="206][description_field][0][value" resname="206][description_field][0][value">
+     <source xml:lang="en">&quot;Something you know, and something you have.&quot; Login systems that require only a username and password risk being broken when someone else can obtain (or guess) those pieces of information. Services that offer two-factor authentication also require to provide a separate confirmation that you are who you say you are. The second factor could be a one-off secret code, a number generated by a program running on a mobile device, or a device that you carry and that you can use to confirm who you are. Companies like banks, and major internet services like Google, Paypal and Twitter now offer two-factor authentication.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="206][field_synonym][0][value" resname="206][field_synonym][0][value">
+     <source xml:lang="en">two-step verification</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="207">
+    <note>Transport encryption</note>
+    <trans-unit id="207][name_field][0][value" resname="207][name_field][0][value">
+     <source xml:lang="en">Transport encryption</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="207][description_field][0][value" resname="207][description_field][0][value">
+     <source xml:lang="en">Encrypting data as it travels across the network, so that others spying on the network cannot read it.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="207][field_synonym][0][value" resname="207][field_synonym][0][value">
+     <source xml:lang="en">transport-layer encryption</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="208">
+    <note>Traffic-blocking browser extension</note>
+    <trans-unit id="208][name_field][0][value" resname="208][name_field][0][value">
+     <source xml:lang="en">Traffic-blocking browser extension</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="208][description_field][0][value" resname="208][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;When you visit a website, your browser sends some information to that site's operators -- your IP address, other information about your computer, and cookies that link you to previous visits using that browser, for instance. If the website includes images and content taken from other web servers, that same information is sent to other websites as part of downloading or viewing the page. Advertising networks, analytics providers, and other data collectors may gather information from you in this way.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;You can install additional software that tuns alongside your browser and will limit how much information is leaked to third-parties in this way. The most well-known examples are programs that block advertisements. EFF offers a tool called &lt;a href=&quot;https://www.eff.org/privacybadger&quot;&gt;Privacy Badger&lt;/a&gt; which is another traffic-blocking extension.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="209">
+    <note>Throwaway address</note>
+    <trans-unit id="209][name_field][0][value" resname="209][name_field][0][value">
+     <source xml:lang="en">Throwaway address</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="209][description_field][0][value" resname="209][description_field][0][value">
+     <source xml:lang="en">An email address you use once, and never again. Used to sign up to Internet services without revealing an email address connected to your identity.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="210">
+    <note>Threat model</note>
+    <trans-unit id="210][name_field][0][value" resname="210][name_field][0][value">
+     <source xml:lang="en">Threat model</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="210][description_field][0][value" resname="210][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;A way of narrowly thinking about the sorts of protection you want for your data. It's impossible to protect against every kind of trick or attacker, so you should concentrate on which people might want your data, what they might want from it, and how they might get it. Coming up with a set of possible attacks you plan to protect against is called threat modelling. Once you have a threat model, you can conduct a risk analysis.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="210][field_synonym][0][value" resname="210][field_synonym][0][value">
+     <source xml:lang="en">threat modeling</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="211">
+    <note>Threat</note>
+    <trans-unit id="211][name_field][0][value" resname="211][name_field][0][value">
+     <source xml:lang="en">Threat</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="211][description_field][0][value" resname="211][description_field][0][value">
+     <source xml:lang="en">In computer security, a threat is a potential event that could undermine your efforts to defend your data. Threats can be intentional (conceived by attackers), or they could be accidental (you might leave your computer turned on and unguarded).</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="212">
+    <note>Terminal</note>
+    <trans-unit id="212][name_field][0][value" resname="212][name_field][0][value">
+     <source xml:lang="en">Terminal</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="212][description_field][0][value" resname="212][description_field][0][value">
+     <source xml:lang="en">In ancient computer history, a terminal was a dedicated system of keyboard and screen that connected a user to a server. These days, it's more likely to be a program  that allows you to talk to computers (either local or remote) over the command line.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="212][field_synonym][0][value" resname="212][field_synonym][0][value">
+     <source xml:lang="en">سطر الأوامر</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="213">
+    <note>SSH</note>
+    <trans-unit id="213][name_field][0][value" resname="213][name_field][0][value">
+     <source xml:lang="en">SSH</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="213][description_field][0][value" resname="213][description_field][0][value">
+     <source xml:lang="en">SSH (or Secure SHell) is a method for letting you securely control a remote computer via a command line interface. One of the features of the SSH protocol is that as well as sending commands, you can also use it to securely relay Internet traffic between two computers. To set up an ssh link, the remote system needs to operate as a ssh server, and your local machine need an ssh client program.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="214">
+    <note>Solid State Drive (SSD)</note>
+    <trans-unit id="214][name_field][0][value" resname="214][name_field][0][value">
+     <source xml:lang="en">Solid State Drive (SSD)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="214][description_field][0][value" resname="214][description_field][0][value">
+     <source xml:lang="en">Historically, computers stored data on rotating magnetic discs. Mobile devices and increasing numbers of personal computers now store permanent data on non-moving drives. These SSD drives are currently more expensive, but much faster than magnetic storage. Unfortunately, it can be more difficult to reliably and permanently remove data from SSD drives.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="215">
+    <note>SMTP settings</note>
+    <trans-unit id="215][name_field][0][value" resname="215][name_field][0][value">
+     <source xml:lang="en">SMTP settings</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="215][description_field][0][value" resname="215][description_field][0][value">
+     <source xml:lang="en">SMTP is one method for sending mail between computers. You can configure most email programs to encrypt messages between your e-mail software and the email server by changing your programs' SMTP settings (as long as your email service supports it)</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="216">
+    <note>SIM card</note>
+    <trans-unit id="216][name_field][0][value" resname="216][name_field][0][value">
+     <source xml:lang="en">SIM card</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="216][description_field][0][value" resname="216][description_field][0][value">
+     <source xml:lang="en">A small, removable card that can be inserted into a mobile phone in order to provide service with a particular mobile phone company. SIM (subscriber identity module) cards can also store phone numbers and text messages.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="216][field_synonym][0][value" resname="216][field_synonym][0][value">
+     <source xml:lang="en">بطاقة وحدة تعريف مشترك</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+    <trans-unit id="216][field_synonym][1][value" resname="216][field_synonym][1][value">
+     <source xml:lang="en">بطاقة سيم</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="217">
+    <note>Security question</note>
+    <trans-unit id="217][name_field][0][value" resname="217][name_field][0][value">
+     <source xml:lang="en">Security question</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="217][description_field][0][value" resname="217][description_field][0][value">
+     <source xml:lang="en">To supplement passwords, some systems use &quot;security questions&quot;. These are queries to which only you are supposed to know the answer. The problem with security questions is that they are really just extra passwords that have potentially guessable answers. We recommend you treat them as any other password: create a long, novel, random, phrase to answer them, and record that somewhere safe. So the next time your bank asks you your mother's maiden name, you should be ready to answer &quot;Correct Battery Horse Staple&quot; or similar.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="218">
+    <note>Security certificate</note>
+    <trans-unit id="218][name_field][0][value" resname="218][name_field][0][value">
+     <source xml:lang="en">Security certificate</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="218][description_field][0][value" resname="218][description_field][0][value">
+     <source xml:lang="en">A security certificate is a kind of private key used to prevent man-in-the-middle attacks. A site that has access to the certificate can prove to remote systems that it has the certificate, and at the same time demonstrate that no other system without that certificate is tampering with the communication.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="219">
+    <note>Secure Sockets Layer (SSL)</note>
+    <trans-unit id="219][name_field][0][value" resname="219][name_field][0][value">
+     <source xml:lang="en">Secure Sockets Layer (SSL)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="219][description_field][0][value" resname="219][description_field][0][value">
+     <source xml:lang="en">The technology that permits you to maintain a secure, encrypted connection between your computer and some of the websites and Internet services that you visit. When you are connected to a website through SSL, the address of the website will begin with HTTPS rather than HTTP.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="219][field_synonym][0][value" resname="219][field_synonym][0][value">
+     <source xml:lang="en">SSL/TLS</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="220">
+    <note>Risk analysis</note>
+    <trans-unit id="220][name_field][0][value" resname="220][name_field][0][value">
+     <source xml:lang="en">Risk analysis</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="220][description_field][0][value" resname="220][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;In computer security, risk analysis is calculating the chance that threats might succeed, so you know how much effort to spend defending against them. There may be many different ways that you might lose control or access to your data, but some of them are less likely than others. Assessing risk means deciding which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about. See threat modeling.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="220][field_synonym][0][value" resname="220][field_synonym][0][value">
+     <source xml:lang="en">risk</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="221">
+    <note>Revocation certificate</note>
+    <trans-unit id="221][name_field][0][value" resname="221][name_field][0][value">
+     <source xml:lang="en">Revocation certificate</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="221][description_field][0][value" resname="221][description_field][0][value">
+     <source xml:lang="en">What happens if you lose access to a secret key, or it stops being secret? A revocation certificate is a file that you can generate that announces that you no longer trust that key. You generate it when you still have the secret key, and keep it for any future disaster.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="222">
+    <note>Public key encryption</note>
+    <trans-unit id="222][name_field][0][value" resname="222][name_field][0][value">
+     <source xml:lang="en">Public key encryption</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="222][description_field][0][value" resname="222][description_field][0][value">
+     <source xml:lang="en">Traditional encryption systems use the same secret, or key, to encrypt and decrypt a message. So if I encrypted a file with the password &quot;bluetonicmonster&quot;, you would need both the file and the secret &quot;bluetonicmonster&quot; to decode it. Public key encryption uses two keys: one to encrypt, and other to decrypt. This has all kinds of useful consequences. For one, it means that you can hand out the key to encrypt messages to you, and as long as you keep the other key secret, anyone with that key can talk to you securely. The key you hand out widely is known as the &quot;public key&quot;: hence the name of the technique. Public key encryption is used to encrypt email and files by Pretty Good Privacy (PGP), OTR for instant messaging, and SSL/TLS for web browsing.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="222][field_synonym][0][value" resname="222][field_synonym][0][value">
+     <source xml:lang="en">asymmetric-key encryption</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="223">
+    <note>Protocol</note>
+    <trans-unit id="223][name_field][0][value" resname="223][name_field][0][value">
+     <source xml:lang="en">Protocol</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="223][description_field][0][value" resname="223][description_field][0][value">
+     <source xml:lang="en">A communications protocol is a way of sending data between programs or computers. Software programs that use the same protocol can talk to each other: so web browsers and web servers speak the same protocol, called &quot;http&quot;. Some protocols use encryption to protect their contents. The secure version of the http protocol is called &quot;https&quot;. Another example of an encrypted protocol used by many different programs is OTR (Off-the-Record), a protocol for secure instant messaging.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="224">
+    <note>PGP</note>
+    <trans-unit id="224][name_field][0][value" resname="224][name_field][0][value">
+     <source xml:lang="en">PGP</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="224][description_field][0][value" resname="224][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;PGP or Pretty Good Privacy was one of the first popular implementations of public key cryptography. Phil Zimmermann, its creator, wrote the program in 1991 to help activists and others protect their communications. He was formally investigated by the US government when the program spread outside the United States. At the time, exporting tools that included strong public key encryption was a violation of US law.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;PGP continues to exist as a commercial software product. A free implementation of the same underlying standard that PGP uses called GnuPG (or GPG) is also available. Because both use the same interchangeable approach, people will refer to using a “PGP key” or sending a “PGP message”, even if they are using GnuPG.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="224][field_synonym][0][value" resname="224][field_synonym][0][value">
+     <source xml:lang="en">Pretty Good Privacy</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="225">
+    <note>Forward secrecy</note>
+    <trans-unit id="225][name_field][0][value" resname="225][name_field][0][value">
+     <source xml:lang="en">Forward secrecy</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="225][description_field][0][value" resname="225][description_field][0][value">
+     <source xml:lang="en">A property of a secure messaging system which ensures that your past
+communications can remain secure even if one of the private keys is stolen
+later.  
+
+For HTTPS websites, forward secrecy is an important protection against
+adversaries like intelligence agencies which may record large amounts of
+traffic and use a stolen key to decrypt it.  For instant messaging and
+chat systems, forward secrecy is necessary to ensure that deleted
+messages are really deleted, but you will also need to either
+[disabled logging] or [securely delete past messages].</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="225][field_synonym][0][value" resname="225][field_synonym][0][value">
+     <source xml:lang="en">Perfect forward secrecy</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="226">
+    <note>Password manager</note>
+    <trans-unit id="226][name_field][0][value" resname="226][name_field][0][value">
+     <source xml:lang="en">Password manager</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="226][description_field][0][value" resname="226][description_field][0][value">
+     <source xml:lang="en">A tool that can encrypt and store your passwords using a single master password making it practical to use many different passwords on different sites and services without having to memorize them.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="226][field_synonym][0][value" resname="226][field_synonym][0][value">
+     <source xml:lang="en">Secure password database; password safe</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="227">
+    <note>Passphrase</note>
+    <trans-unit id="227][name_field][0][value" resname="227][name_field][0][value">
+     <source xml:lang="en">Passphrase</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="227][description_field][0][value" resname="227][description_field][0][value">
+     <source xml:lang="en">A passphrase is a kind of password. We use &quot;passphrase&quot; to convey the idea that a password which is a single word is far too short to protect you and a longer phrase is much better. The webcomic XKCD has a good explaination. http://xkcd.com/936/</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="227][field_synonym][0][value" resname="227][field_synonym][0][value">
+     <source xml:lang="en">عبارة مرور</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="228">
+    <note>Passive adversary</note>
+    <trans-unit id="228][name_field][0][value" resname="228][name_field][0][value">
+     <source xml:lang="en">Passive adversary</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="228][description_field][0][value" resname="228][description_field][0][value">
+     <source xml:lang="en">A passive adversary is one that can listen to your communications, but cannot directly tamper with them.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="229">
+    <note>Out-of-band verification</note>
+    <trans-unit id="229][name_field][0][value" resname="229][name_field][0][value">
+     <source xml:lang="en">Out-of-band verification</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="229][description_field][0][value" resname="229][description_field][0][value">
+     <source xml:lang="en">&quot;Out-of-band&quot; means any way of communicating outside of the current method. Verifying the identity of the person you're talking to over an insecure communication system often requires communicating out-of-band via another method that is less vulnerable to the same kind of attack. So, for instance, you might check that you are using someone's correct public key by talking to them in person, before using it to encrypt your email.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="230">
+    <note>Operating system</note>
+    <trans-unit id="230][name_field][0][value" resname="230][name_field][0][value">
+     <source xml:lang="en">Operating system</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="230][description_field][0][value" resname="230][description_field][0][value">
+     <source xml:lang="en">A program that runs all the other programs on a computer. Windows, Android and Apple's OS X and iOS are all examples of operating systems.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="231">
+    <note>One-time password</note>
+    <trans-unit id="231][name_field][0][value" resname="231][name_field][0][value">
+     <source xml:lang="en">One-time password</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="231][description_field][0][value" resname="231][description_field][0][value">
+     <source xml:lang="en">Passwords are usually semi-permanent: once you set them up, you can keep using them until you manually change or reset them. One-time passwords only work once. Some one-time password systems work by having a tool or program that can create many different one-time passwords, that you use in turn. This is useful if you're afraid that there may be a key-logger on a system where you have to type in a password.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="232">
+    <note>Off-the-Record (OTR)</note>
+    <trans-unit id="232][name_field][0][value" resname="232][name_field][0][value">
+     <source xml:lang="en">Off-the-Record (OTR)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="232][description_field][0][value" resname="232][description_field][0][value">
+     <source xml:lang="en">Instant messaging systems are often unencrypted. OTR is a way of adding encryption to them, so that you can keep using familiar networks like Facebook chat, Google Chat or Hangouts, or Microsoft Messenger, but with your messages more resistant to surveillance.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="232][field_synonym][0][value" resname="232][field_synonym][0][value">
+     <source xml:lang="en">OTR</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="233">
+    <note>Metadata</note>
+    <trans-unit id="233][name_field][0][value" resname="233][name_field][0][value">
+     <source xml:lang="en">Metadata</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="233][description_field][0][value" resname="233][description_field][0][value">
+     <source xml:lang="en">Metadata (or &quot;data about data&quot;) is everything about a piece of information, apart from the information itself. So the content of a message is not metadata, but who sent it, when, where from, and to whom, are all examples of metadata. Legal systems often protect content more than metadata: for instance, in the United States, law enforcement needs a warrant to listen to a person's telephone calls, but claims the right to obtain the list of who you have called far more easily. However, metadata can often reveal a great deal, and will often need to be protected as carefully as the data it describes.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="233][field_synonym][0][value" resname="233][field_synonym][0][value">
+     <source xml:lang="en">بيانات فوقية</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="234">
+    <note>Master password</note>
+    <trans-unit id="234][name_field][0][value" resname="234][name_field][0][value">
+     <source xml:lang="en">Master password</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="234][description_field][0][value" resname="234][description_field][0][value">
+     <source xml:lang="en">A password used to unlock a store of other passwords or other ways to unlock programs or messages. You should make a master password as strong as you can.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="234][field_synonym][0][value" resname="234][field_synonym][0][value">
+     <source xml:lang="en">كلمة مرور رئيسة</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="235">
+    <note>Man-in-the-middle attack (MITM)</note>
+    <trans-unit id="235][name_field][0][value" resname="235][name_field][0][value">
+     <source xml:lang="en">Man-in-the-middle attack (MITM)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="235][description_field][0][value" resname="235][description_field][0][value">
+     <source xml:lang="en">Suppose you believe you were speaking to your friend, Bahram, via encrypted instant messager. To check it's really him, you ask him to tell you the city where you first met. &quot;Istanbul&quot; comes the reply. That's correct! Unfortunately, without you or Bahram knowing, someone else online has been intercepting all your communications. When you first connected to Bahram, you actually connected to this person, and she, in turn, connected to Bahram. When you think you are asking Bahram a question, she receives your message, relays the question to Bahram, receives his answer back , and then sends it to you. Even though you think you are communicating securely with Bahram, you are, in fact, only communicating securely with the spy, who is also communicating securely to Bahram! This is the man-in-the-middle attack. Men-in-the-middle can spy on communications or even insert false or misleading messages into your communications. Security-focused internet communications software needs to defend against the man-in-the-middle attack to be safe against attackers who have control of any part of the Internet between two communicators.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="235][field_synonym][0][value" resname="235][field_synonym][0][value">
+     <source xml:lang="en">هجوم في الطريق</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+    <trans-unit id="235][field_synonym][1][value" resname="235][field_synonym][1][value">
+     <source xml:lang="en">الهجوم في المنتصف</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="236">
+    <note>Malware</note>
+    <trans-unit id="236][name_field][0][value" resname="236][name_field][0][value">
+     <source xml:lang="en">Malware</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="236][description_field][0][value" resname="236][description_field][0][value">
+     <source xml:lang="en">Malware is short for malicious software: programs that are designed to conduct unwanted actions on your device. Computer viruses are malware. So are programs that steal passwords, secretly record you, or delete your data.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="236][field_synonym][0][value" resname="236][field_synonym][0][value">
+     <source xml:lang="en">malicious software</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="237">
+    <note>Keyring</note>
+    <trans-unit id="237][name_field][0][value" resname="237][name_field][0][value">
+     <source xml:lang="en">Keyring</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="237][description_field][0][value" resname="237][description_field][0][value">
+     <source xml:lang="en">If you use public key cryptography, you'll need to keep track of many keys: your secret, private key, your public key, and the public keys of everyone you communicate with. The collection of these keys is often referred to as your keyring.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="237][field_synonym][0][value" resname="237][field_synonym][0][value">
+     <source xml:lang="en">سلسلة مفاتيح</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="238">
+    <note>Key pair</note>
+    <trans-unit id="238][name_field][0][value" resname="238][name_field][0][value">
+     <source xml:lang="en">Key pair</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="238][description_field][0][value" resname="238][description_field][0][value">
+     <source xml:lang="en">To receive encrypted messages using public key cryptography (and to reliably inform others that a message genuinely came from you), you need to create two keys. One, the private key, you keep secret. The other, the public key, you can let anyone see. The two keys are connected mathematically, and are often collectively known as a &quot;keypair&quot;.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="239">
+    <note>Keylogger</note>
+    <trans-unit id="239][name_field][0][value" resname="239][name_field][0][value">
+     <source xml:lang="en">Keylogger</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="239][description_field][0][value" resname="239][description_field][0][value">
+     <source xml:lang="en">A malicious program or device that records everything you type into a device, including passwords and other personal details, allowing others to secretly collect that information.  (The &quot;key&quot; in keylogger refers to the keys you have on your keyboard.) Keyloggers are often malware that users have been tricked into downloading and running, or occasionally physical hardware secretly plugged into a keyboard or device.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="240">
+    <note>Key-signing party</note>
+    <trans-unit id="240][name_field][0][value" resname="240][name_field][0][value">
+     <source xml:lang="en">Key-signing party</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="240][description_field][0][value" resname="240][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;When you're using public key encryption, it's important to be sure that the key you use to encrypt a message really belongs to the recipient (see key verification). PGP makes this a little easier by having a way to tell others &quot;I believe this key belongs to this person -- and if you trust me, you should believe that too.&quot; Telling the world that you trust someone's key is called &quot;signing their key&quot;: it means anyone who uses that key can see you vouched for it. To encourage everyone to check and sign each others keys, PGP users organize key-signing parties. They're almost, but not quite, as exciting as they sound.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="240][field_synonym][0][value" resname="240][field_synonym][0][value">
+     <source xml:lang="en">cryptoparty</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+    <trans-unit id="240][field_synonym][1][value" resname="240][field_synonym][1][value">
+     <source xml:lang="en">key-signing parties</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="241">
+    <note>Key verification</note>
+    <trans-unit id="241][name_field][0][value" resname="241][name_field][0][value">
+     <source xml:lang="en">Key verification</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="241][description_field][0][value" resname="241][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;In public key cryptography, each person has a set of keys. To send a message securely to a particular person, you encrypt your message using their public key. An attacker may be able to trick you into using their key, which means that they will be able to read your message, instead of the intended recipient. That means that you have to verify that a key is being used by a particular person. Key verification is any way that lets you match a key to a person.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="241][field_synonym][0][value" resname="241][field_synonym][0][value">
+     <source xml:lang="en">public key cryptography</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="242">
+    <note>IP address</note>
+    <trans-unit id="242][name_field][0][value" resname="242][name_field][0][value">
+     <source xml:lang="en">IP address</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="242][description_field][0][value" resname="242][description_field][0][value">
+     <source xml:lang="en">A device on the Internet needs its own address to receive data, just like a home or business needs a street address to receive physical mail. This address is its IP (Internet Protocol) address. When you connect to a web site or other server online, you usually reveal your own IP address. This doesn't necessarily reveal either your identity (it's hard to map an IP address to a real address or a particular computer). An IP address can give away some information about you, however, such as your rough location or the name of your Internet Service Provider. Services like Tor let you hide your IP address, which helps give you anonymity online.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="242][field_synonym][0][value" resname="242][field_synonym][0][value">
+     <source xml:lang="en">تعريف آي بي</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="243">
+    <note>Internet filtering</note>
+    <trans-unit id="243][name_field][0][value" resname="243][name_field][0][value">
+     <source xml:lang="en">Internet filtering</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="243][description_field][0][value" resname="243][description_field][0][value">
+     <source xml:lang="en">Filtering is the politer term for blocking or censoring Internet traffic.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="243][field_synonym][0][value" resname="243][field_synonym][0][value">
+     <source xml:lang="en">blocking</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="244">
+    <note>Indicators of compromise</note>
+    <trans-unit id="244][name_field][0][value" resname="244][name_field][0][value">
+     <source xml:lang="en">Indicators of compromise</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="244][description_field][0][value" resname="244][description_field][0][value">
+     <source xml:lang="en">Clues that show that your device may have been broken into or tampered with.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="245">
+    <note>IMAP settings</note>
+    <trans-unit id="245][name_field][0][value" resname="245][name_field][0][value">
+     <source xml:lang="en">IMAP settings</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="245][description_field][0][value" resname="245][description_field][0][value">
+     <source xml:lang="en">IMAP is the way that many email programs communicate with services that send, receive and store your email. By changing the IMAP settings on your email program, you can choose to load email from different servers or set the level of security and encryption used to transfer the mail across the Internet to you.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="246">
+    <note>HTTPS</note>
+    <trans-unit id="246][name_field][0][value" resname="246][name_field][0][value">
+     <source xml:lang="en">HTTPS</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="246][description_field][0][value" resname="246][description_field][0][value">
+     <source xml:lang="en">If you've ever seen a web address spelled out as “http://www.example.com/”, you'll recognize the “http” bit of this term. HTTP (hypertext transfer protocol) is the way a web browser on your machine talks to a remote web server. Unfortunately, standard http sends text insecurely across the Internet. HTTPS (the S stands for “secure”) uses encryption to better protect the data you send to websites, and the information they return to you, from prying eyes.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="246][field_synonym][0][value" resname="246][field_synonym][0][value">
+     <source xml:lang="en">HTTP v. HTTPS?</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="247">
+    <note>Full disk encryption</note>
+    <trans-unit id="247][name_field][0][value" resname="247][name_field][0][value">
+     <source xml:lang="en">Full disk encryption</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="247][description_field][0][value" resname="247][description_field][0][value">
+     <source xml:lang="en">If you're planning on securing data on your local device, you could choose to just encrypt a few key files, or you could encrypt everything on the computer. “Full disk encryption” is the term for encrypting everything. It's usually safer (and often easier) to use full disk encryption than to manage just a few individually encrypted files. If you try to encrypt just individual files, your computer might make temporary unencrypted copies of those files without you noticing. And some software might keep some unencrypted records about your use of your computer. Apple's OS X, Linux and high-end versions of Windows all have built-in full disk encryption, but it is usually not turned on by default.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="248">
+    <note>Free, libre and open source software</note>
+    <trans-unit id="248][name_field][0][value" resname="248][name_field][0][value">
+     <source xml:lang="en">Free, libre and open source software</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="248][description_field][0][value" resname="248][description_field][0][value">
+     <source xml:lang="en">Open source software, or free software, is software that can be distributed freely in a form that lets others modify it and rebuild it from scratch. While it is known as “free software”, it's not necessarily free as in zero-cost: FLOSS programmers can ask for donations, or charge for support or for copies. Linux is an example of a free, open source program, as are Firefox and Tor.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="248][field_synonym][0][value" resname="248][field_synonym][0][value">
+     <source xml:lang="en">FLOSS</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="249">
+    <note>Firewall</note>
+    <trans-unit id="249][name_field][0][value" resname="249][name_field][0][value">
+     <source xml:lang="en">Firewall</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="249][description_field][0][value" resname="249][description_field][0][value">
+     <source xml:lang="en">A tool that protects a computer from unwanted connections to or from local networks and the Internet. A firewall might have rules that forbid outgoing email, or connections to certain websites. Firewalls can be used as a first line of defense to protect a device from unexpected interference. Or they can be used to prevent users from using the Internet in certain ways.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="250">
+    <note>File Transfer Protocol (FTP server)</note>
+    <trans-unit id="250][name_field][0][value" resname="250][name_field][0][value">
+     <source xml:lang="en">File Transfer Protocol (FTP server)</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="250][description_field][0][value" resname="250][description_field][0][value">
+     <source xml:lang="en">An old method for copying files from a local computer to a remote one, or vice versa. The job of FTP programs (and the FTP servers that stored the files) have mostly been replaced by web browsers and web servers, or file synchronising programs like Dropbox.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="251">
+    <note>File system</note>
+    <trans-unit id="251][name_field][0][value" resname="251][name_field][0][value">
+     <source xml:lang="en">File system</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="251][description_field][0][value" resname="251][description_field][0][value">
+     <source xml:lang="en">Where data is stored, usually locally, on your computer or other device. File systems are usually where personal documents and notes are stored for easy access.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="252">
+    <note>End-to-end encryption</note>
+    <trans-unit id="252][name_field][0][value" resname="252][name_field][0][value">
+     <source xml:lang="en">End-to-end encryption</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="252][description_field][0][value" resname="252][description_field][0][value">
+     <source xml:lang="en">End-to-end encryption ensures that a message is turned into a secret message by its original sender,  and decoded only by its final recipient. Other forms of encryption may depend on encryption performed by third-parties. That means that those parties have to be trusted with the original text. End-to-end encryption is generally regarded as safer, because it reduces the number of parties who might be able to interfere or break the encryption.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="253">
+    <note>Encryption key</note>
+    <trans-unit id="253][name_field][0][value" resname="253][name_field][0][value">
+     <source xml:lang="en">Encryption key</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="253][description_field][0][value" resname="253][description_field][0][value">
+     <source xml:lang="en">An encryption key is a piece of information that is used to convert a message into an unreadable form. In some cases, you need the same encryption key to decode the message. In others, the encryption key and decryption key are different.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="254">
+    <note>Encryption</note>
+    <trans-unit id="254][name_field][0][value" resname="254][name_field][0][value">
+     <source xml:lang="en">Encryption</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="254][description_field][0][value" resname="254][description_field][0][value">
+     <source xml:lang="en">A process that takes a message and makes it unreadable except to a person who knows how to &quot;decrypt&quot; it back into a readable form.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="254][field_synonym][0][value" resname="254][field_synonym][0][value">
+     <source xml:lang="en">شيفرة</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="255">
+    <note>Domain name</note>
+    <trans-unit id="255][name_field][0][value" resname="255][name_field][0][value">
+     <source xml:lang="en">Domain name</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="255][description_field][0][value" resname="255][description_field][0][value">
+     <source xml:lang="en">The address, in words, of a website or Internet service; for example: ssd.eff.org</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="256">
+    <note>Distributed Denial of Service attack</note>
+    <trans-unit id="256][name_field][0][value" resname="256][name_field][0][value">
+     <source xml:lang="en">Distributed Denial of Service attack</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="256][description_field][0][value" resname="256][description_field][0][value">
+     <source xml:lang="en">A method for taking a website or other Internet service offline, by co-ordinating many different computers to request or send data to it simultaneously. Usually the computers used to conduct such an attack are remotely controlled by criminals, who have taken over the machines by breaking into them, or infecting them with malware.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="256][field_synonym][0][value" resname="256][field_synonym][0][value">
+     <source xml:lang="en">DDoS</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="257">
+    <note>Decrypt</note>
+    <trans-unit id="257][name_field][0][value" resname="257][name_field][0][value">
+     <source xml:lang="en">Decrypt</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="257][description_field][0][value" resname="257][description_field][0][value">
+     <source xml:lang="en">Make a secret message or data intelligible. The idea behind encryption is to make messages that can only be decrypted by the person or people who are meant to receive them.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="258">
+    <note>Cryptography</note>
+    <trans-unit id="258][name_field][0][value" resname="258][name_field][0][value">
+     <source xml:lang="en">Cryptography</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="258][description_field][0][value" resname="258][description_field][0][value">
+     <source xml:lang="en">The art of designing secret codes or ciphers that let you send and receive messages to a recipient without others being able to understand the message.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="258][field_synonym][0][value" resname="258][field_synonym][0][value">
+     <source xml:lang="en">علم التشفير</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="259">
+    <note>Key</note>
+    <trans-unit id="259][name_field][0][value" resname="259][name_field][0][value">
+     <source xml:lang="en">Key</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="259][description_field][0][value" resname="259][description_field][0][value">
+     <source xml:lang="en">In cryptography, a piece of data which gives you the capability to encrypt or decrypt a message.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="260">
+    <note>Corporate Intranet</note>
+    <trans-unit id="260][name_field][0][value" resname="260][name_field][0][value">
+     <source xml:lang="en">Corporate Intranet</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="260][description_field][0][value" resname="260][description_field][0][value">
+     <source xml:lang="en">Companies and other large institutions will usually have some services (email, web, and access to files and printers for instance) that are accessible from within their own local network, but not from outside on the wider Internet. Most companies take this as being sufficient security to protect their internal documents, but this means that any attack that can connect to the intranet can access or interfere with all the information being kept locally. An example of such an attack is tricking an employee to install malware on their laptop.
+
+To allow employees to access the intranet via the wider Internet, companies will often provide their own Virtual Private Network (VPN) which creates a secure connection to the inside of the intranet from anywhere in the world.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="261">
+    <note>Cookies</note>
+    <trans-unit id="261][name_field][0][value" resname="261][name_field][0][value">
+     <source xml:lang="en">Cookies</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="261][description_field][0][value" resname="261][description_field][0][value">
+     <source xml:lang="en">Cookies are a web technology that let websites recognize your browser. Cookies were originally designed to allow sites to offer online shopping carts, save preferences or keep you logged on to a site. They also enable tracking and profiling so sites can recognize you and learn more about where you go, which devices you use, and what you are interested in – even if you don't have an account with that site, or aren't logged in.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="261][field_synonym][0][value" resname="261][field_synonym][0][value">
+     <source xml:lang="en">سجل</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+    <trans-unit id="261][field_synonym][1][value" resname="261][field_synonym][1][value">
+     <source xml:lang="en">سجل المتصفح</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+    <trans-unit id="261][field_synonym][2][value" resname="261][field_synonym][2][value">
+     <source xml:lang="en">كوكيز</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="262">
+    <note>Commercial VPN</note>
+    <trans-unit id="262][name_field][0][value" resname="262][name_field][0][value">
+     <source xml:lang="en">Commercial VPN</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="262][description_field][0][value" resname="262][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;A commercial Virtual Private Network is a private service that offers to securely relay your Internet communications via their own network. The advantage of this is that all of the data you send and receive is hidden from local networks, so it is safer from nearby criminals, or untrusted local ISPs or cybercafes. A VPN may be hosted in a foreign country, which is useful both for protecting communications from a local government, and bypassing national censorship. The down side is that most of the traffic is decrypted at the commercial VPN's end. That means you need to trust the commercial VPN (and the country where it is located) not to snoop on your traffic.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="262][field_synonym][0][value" resname="262][field_synonym][0][value">
+     <source xml:lang="en">في بي إن تجارية</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="263">
+    <note>Command line tool</note>
+    <trans-unit id="263][name_field][0][value" resname="263][name_field][0][value">
+     <source xml:lang="en">Command line tool</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="263][description_field][0][value" resname="263][description_field][0][value">
+     <source xml:lang="en">The &quot;command line&quot; is an ancient way of giving a computer a series of small, self-contained orders (think of those science fiction movies where teenage geniuses type long strings of green text onto black screens). To use a command line tool, the user types a command into a window called a terminal emulator, hits the return or enter key, and then receives a textual response in the same window.  Windows, Linux and Apple desktop computers still let you run software using this interface, and even some mobile phones can do the same with the right app. The command line can be used to run software pre-packaged with your operating system. Some downloadable programs, especially technical utilities, use the command line instead of a more familiar &quot;icons and buttons&quot; user interface. The command line needn't be scary, but it does require you to type in exactly the right set of letters and numbers to get the correct result, and it's often unclear what to do if the responses don't match your expectations.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="264">
+    <note>Burner phone</note>
+    <trans-unit id="264][name_field][0][value" resname="264][name_field][0][value">
+     <source xml:lang="en">Burner phone</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="264][description_field][0][value" resname="264][description_field][0][value">
+     <source xml:lang="en">A phone that is not connected to your identity, is only used for a small set of calls or activities, and can be discarded if and when it is suspected of being tracked or compromised. Burner phones are often pre-paid mobile phones bought with cash.</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="264][field_synonym][0][value" resname="264][field_synonym][0][value">
+     <source xml:lang="en">هاتف للاستعمال مرة واحدة</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="265">
+    <note>Asset</note>
+    <trans-unit id="265][name_field][0][value" resname="265][name_field][0][value">
+     <source xml:lang="en">Asset</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="265][description_field][0][value" resname="265][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;In threat modeling, any piece of data or a device that needs to be protected.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="265][field_synonym][0][value" resname="265][field_synonym][0][value">
+     <source xml:lang="en">assets</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="266">
+    <note>Anti-virus</note>
+    <trans-unit id="266][name_field][0][value" resname="266][name_field][0][value">
+     <source xml:lang="en">Anti-virus</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="266][description_field][0][value" resname="266][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;Software that attempts to protect a device from being taken over by malicious software (or “malware&quot;). &quot;Viruses' were some of the first and most prevalent forms of malware; they were named viruses to reflect the way they would spread from device to device. These days most antivirus software concentrate on warning you if you look to be downloading a suspicious fiile from an external source, and examining files on your computer to see if they match the software's idea of what malware looks like.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Anti-virus software can only recognise malware if it is substantially similar to samples that the anti-virus developer has already analysed. This makes it far less effective at combating targeted malware designed to infiltrate a particular community or person, rather than more widespread strains of malware. Some advanced malware can also actively attack or conceal itself from antivirus software.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="267">
+    <note>Air gap</note>
+    <trans-unit id="267][name_field][0][value" resname="267][name_field][0][value">
+     <source xml:lang="en">Air gap</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="267][description_field][0][value" resname="267][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;A computer or network that is physically isolated from all other networks, including the Internet, is said to be air-gapped.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+    <trans-unit id="267][field_synonym][0][value" resname="267][field_synonym][0][value">
+     <source xml:lang="en">فجوة هوائية</source>
+     <target xml:lang="am"/>
+     <note>Synonyms</note>
+    </trans-unit>
+   </group>
+   <group id="268">
+    <note>Attack</note>
+    <trans-unit id="268][name_field][0][value" resname="268][name_field][0][value">
+     <source xml:lang="en">Attack</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="268][description_field][0][value" resname="268][description_field][0][value">
+     <source xml:lang="en">In computer security, an attack is a method that can be used to compromise security, or its actual use. An attacker is the person or organization using an attack. An attack method is sometimes called an &quot;exploit.&quot;</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+   <group id="269">
+    <note>Adversary</note>
+    <trans-unit id="269][name_field][0][value" resname="269][name_field][0][value">
+     <source xml:lang="en">Adversary</source>
+     <target xml:lang="am"/>
+     <note>Name</note>
+    </trans-unit>
+    <trans-unit id="269][description_field][0][value" resname="269][description_field][0][value">
+     <source xml:lang="en">&lt;p&gt;Your adversary is the person or organization attempting to undermine your security goals. Adversaries can be different, depending on the situation. For instance, you may worry about criminals spying on the network at a cafe, or your classmates at a school. Often the adversary is hypothetical.&lt;/p&gt;&#13;
+</source>
+     <target xml:lang="am"/>
+     <note>Description</note>
+    </trans-unit>
+   </group>
+  </body>
+ </file>
+</xliff>
